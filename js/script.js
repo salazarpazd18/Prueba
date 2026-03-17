@@ -125,7 +125,7 @@ function drawGalaxy() {
             ctx.globalAlpha = s.alpha;
             ctx.beginPath();
             ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
-            ctx.fillStyle = 'rgba(255,182,193,0.9)';
+            ctx.fillStyle = 'rgba(255, 255, 0, 1)';
             ctx.shadowColor = '#ffb6d5';
             ctx.shadowBlur = 2; // Menos blur para mejor rendimiento
             ctx.fill();

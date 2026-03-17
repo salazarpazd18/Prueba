@@ -23,8 +23,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   // Followers - Cambiar mensajes
   const messages = [
     'Esta flor es para ti',
-    'Te quiero mucho',
-    'Gracias por todo',
+    'Te quiero mucho Cari',
     '¡Eres especial!',
     '¡Feliz dia ❤️!'
   ];
